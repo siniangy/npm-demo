@@ -1,0 +1,14 @@
+{
+    "name": "@siniangy/tinyy",
+    "version": "1.0.1",
+    "description": "check a object is Array?",
+    "license": "MIT",
+    "repository": "siniangy/tinyy",
+    "main": "index.js",
+    "keywords": [
+        "tinyy",
+        "npm",
+        "package",
+        "siniangy"
+    ]
+}
